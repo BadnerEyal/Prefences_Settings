@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StudentCursorAdapter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_add_student">Add student</string>
+
+     <string name="title_activity_my_settings">MySettingsActivity</string>
+
+     <!-- בשביל בחירה בודדת של עיר -->
+    <string-array name="aaa_entries">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+    </string-array>
+    
+      <string-array name="aaa_values">
+        <item >Tel afif</item>
+        <item >Ul kutz</item>
+        <item >Haifa</item>
+        <item >Um al rash-rash</item>
+    </string-array>
+    <!-- בשביל בחירה מרובה -->  
+    <string-array name="stores">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+</string-array>
+
+<string-array name="store_names">
+    <item>foodbasics</item>
+    <item>nofrills</item>
+    <item>metro</item>
+    <item>loblaws</item>
+    <item>sobeys</item>
+</string-array>  
+      
+    
+</resources>
